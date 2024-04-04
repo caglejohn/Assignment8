@@ -6,4 +6,4 @@
 
 ## Tips
 
-My recommendation would be to try to knck down the blocks and expose the goal area and then freeshoot it using the least amount of projectiles possible. I actually had fun playing this for a few hours after I tested it
+My recommendation would be to try to knock down the blocks and expose the goal area and then freeshoot it using the least amount of projectiles possible. I actually had fun playing this for a few hours after I tested it
