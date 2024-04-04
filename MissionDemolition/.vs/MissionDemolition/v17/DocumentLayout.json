@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnc\\Documents\\project_folder\\mission_demolition\\MissionDemolition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|c:\\users\\johnc\\documents\\project_folder\\mission_demolition\\missiondemolition\\assets\\_scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340C932F-C289-9990-B470-24F57F6C3B35}|Assembly-CSharp.csproj|solutionrelative:assets\\_scripts\\slingshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Slingshot.cs",
+              "DocumentMoniker": "C:\\Users\\johnc\\Documents\\project_folder\\mission_demolition\\MissionDemolition\\Assets\\_Scripts\\Slingshot.cs",
+              "RelativeDocumentMoniker": "Assets\\_Scripts\\Slingshot.cs",
+              "ToolTip": "C:\\Users\\johnc\\Documents\\project_folder\\mission_demolition\\MissionDemolition\\Assets\\_Scripts\\Slingshot.cs",
+              "RelativeToolTip": "Assets\\_Scripts\\Slingshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:07:13.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
